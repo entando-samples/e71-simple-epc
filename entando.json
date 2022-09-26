@@ -24,7 +24,7 @@
     ],
     "svc": [],
     "name": "20220925-simple-epc",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "my-simple-react-epc description",
     "type": "bundle"
 }

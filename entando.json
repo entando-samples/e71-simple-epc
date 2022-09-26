@@ -1,0 +1,30 @@
+{
+    "microservices": [],
+    "microfrontends": [
+        {
+            "name": "simple-mfe",
+            "customElement": "simple-mfe",
+            "stack": "react",
+            "type": "app-builder",
+            "slot": "content",
+            "group": "free",
+            "publicFolder": "public",
+            "paths": ["/myFirstEPC"],
+            "nav": [
+                {
+                    "label": {
+                        "en": "My Simple MFE as EPC nav",
+                        "it": "My Simple MFE as EPC nav"
+                    },
+                    "target": "internal",
+                    "url": "/myFirstEPC"
+                }
+            ]
+        }
+    ],
+    "svc": [],
+    "name": "20220925-simple-epc",
+    "version": "0.0.1",
+    "description": "my-simple-react-epc description",
+    "type": "bundle"
+}

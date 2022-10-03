@@ -5,7 +5,7 @@ if (process.env.NODE_ENV === 'production') {
     // }
     // Hardcoded workaround since window.entando.widgets[].basePath isn't available for 7.1.0
     // if (!publicpath) {
-    let publicpath = '/entando-de-app/cmsresources/bundles/20220925-simple-epc-2eecfd1b/widgets/simple-mfe-2eecfd1b/'
+    let publicpath = '/entando-de-app/cmsresources/bundles/e71-simple-epc-9bcfff02/widgets/simple-mfe-9bcfff02/'
     // }
     // eslint-disable-next-line no-undef
     __webpack_public_path__ = publicpath || './';

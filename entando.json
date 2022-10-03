@@ -23,8 +23,8 @@
         }
     ],
     "svc": [],
-    "name": "20220925-simple-epc",
-    "version": "0.0.4",
+    "name": "e71-simple-epc",
+    "version": "0.0.1",
     "description": "my-simple-react-epc description",
     "type": "bundle"
 }

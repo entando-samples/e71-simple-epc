@@ -1,5 +1,5 @@
-# Configurable Widget
-The project contains a very simple MFE (simple-mfe) for Entando 7.1
+# Simple EPC
+The project contains a very simple MFE (simple-mfe) deployed as a simple EPC in Entando 7.1
 
 ## Prerequisites
 1. Docker account
@@ -14,5 +14,5 @@ The project contains a very simple MFE (simple-mfe) for Entando 7.1
 See https://developer.entando.com for more information.
 
 ## History
-v0.0.1 Basic React MFE
-v0.0.2 Add publicpath config to handle static assets in Entando 
+v0.0.4 First version
+ 

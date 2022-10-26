@@ -1,5 +1,6 @@
 # Simple EPC
 The project contains a very simple MFE (simple-mfe) deployed as a simple EPC in Entando 7.1
+See https://developer.entando.com/v7.1/tutorials/create/mfe/epc.html
 
 ## Prerequisites
 1. Docker account
